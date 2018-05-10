@@ -1,4 +1,4 @@
-##Variables
+##Variables  
 A **variable** is a name that refers to a certain value.
 In the example below you can see that when you enter ```x = 5``` that value (5) is stored into the variable x.  
 When you input the command ```print x``` you will get 5
@@ -43,11 +43,11 @@ You can even assign a variable to be equal to the result of an arithmetic expres
 25
 ```
 ___
-###Making Your Programs Interactive
+###Making Your Programs Interactive  
   
 So far, your programs have not been able to take any input from the user. However, getting parameters from the user and operating on them is a key part of programming.  
   
-####Getting Input from the User
+####Getting Input from the User  
   
 To get text input from the user, use the ```raw_input()``` function.  
 The example below takes the input and stores it in the variable name:  
