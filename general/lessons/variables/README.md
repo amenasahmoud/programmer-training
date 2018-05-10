@@ -8,7 +8,7 @@ When you input the command ```print x``` you will get 5
 >>> print x
 5
 ```
-Note: you can change the vlaue of a variable after you create it:
+Note: you can change the value of a variable after you create it:
 
 ```
 >>> x = 5
