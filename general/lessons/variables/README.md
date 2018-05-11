@@ -16,7 +16,7 @@ Note: you can change the value of a variable after you create it:
 >>> print x
 6
 ```
-The value of 5 will be stored in variable x until ```x=6``` _overwrites_ the first value making x = 6  
+The value of 5 will be stored in variable x until ```x=6``` _overwrites_ the first value making x equal to 6  
 ___  
 Variables can refer to different kinds of values:
 
