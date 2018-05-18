@@ -73,6 +73,6 @@ Enter a number: 5 ← Be careful - x will be a string!
 15
 ```
   
- That's it! You just learned the fundementals of **variables**. You may now celebrate... Or take the [quiz] first.
+ That's it! You just learned the fundamentals of **variables**. You may now celebrate... Or take the [quiz] first.
  
 [quiz]: (https://nathansolomon1678.github.io/programmer-training/general/quizzes/variables)
