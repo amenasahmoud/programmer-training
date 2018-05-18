@@ -16,8 +16,9 @@ Note: you can change the value of a variable after you create it:
 >>> print x
 6
 ```
-The value of 5 will be stored in variable x until ```x=6``` _overwrites_ the first value making x equal to 6  
-___  
+The value of 5 will be stored in variable x until ````x=6``` _overwrites_ the first value making x equal to 6  
+
+___
 Variables can refer to different kinds of values:
 
 ```
@@ -42,7 +43,8 @@ You can even assign a variable to be equal to the result of an arithmetic expres
 >>> print 5 * n
 25
 ```
-___
+
+---
 ###Making Your Programs Interactive  
   
 So far, your programs have not been able to take any input from the user. However, getting parameters from the user and operating on them is a key part of programming.  
@@ -59,19 +61,22 @@ You can also put some text between the parentheses of the function for a prompt 
   
 _Example:_ 
  
-```
->>> name = raw_input()
-{The program will pause here to allow you to type in a value.} 
-Kyle ← This is something that the user types in
->>> print name
-Kyle
->>> x = raw_input(“Enter a number:”)
-Enter a number: 5 ← Be careful - x will be a string!
->>> print x * 3
-555
->>> print int(x) * 3
-15
-```
+    >>> name = raw_input()
+The program will pause here to allow you to type in a value.
+
+    Kyle     
+This is something that the user types in
+
+    >>> print name
+    Kyle
+    >>> x = raw_input(“Enter a number:”)
+    Enter a number: 5 
+ Be careful — x will be a string!
+ 
+    >>> print x * 3
+    555
+    >>> print int(x) * 3
+    15
   
  That's it! You just learned the fundamentals of **variables**. You may now celebrate... Or take the [quiz] first.
  
