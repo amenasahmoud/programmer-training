@@ -3,11 +3,11 @@ A **variable** is a name that refers to a certain value.
 In the example below you can see that when you enter ```x = 5``` that value (5) is stored into the variable x.  
 When you input the command ```print x``` you will get 5
 
-```
->>> x = 5
->>> print x
-5
-```
+
+    >>> x = 5
+    >>> print x
+    5
+
 Note: you can change the value of a variable after you create it:
 
 ```
